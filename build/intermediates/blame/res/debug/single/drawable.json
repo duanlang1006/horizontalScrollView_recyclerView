@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/android153/GoogleDownload/zhy_horizontalScrollView03_recyclerView/build/intermediates/res/merged/debug/drawable/item_bg.xml",
+        "source": "/home/android153/GoogleDownload/zhy_horizontalScrollView03_recyclerView/res/drawable/item_bg.xml"
+    },
+    {
+        "merged": "/home/android153/GoogleDownload/zhy_horizontalScrollView03_recyclerView/build/intermediates/res/merged/debug/drawable/item_bg02.xml",
+        "source": "/home/android153/GoogleDownload/zhy_horizontalScrollView03_recyclerView/res/drawable/item_bg02.xml"
+    },
+    {
+        "merged": "/home/android153/GoogleDownload/horizontalScrollView_recyclerView/build/intermediates/res/merged/debug/drawable/item_bg02.xml",
+        "source": "/home/android153/GoogleDownload/horizontalScrollView_recyclerView/res/drawable/item_bg02.xml"
+    },
+    {
+        "merged": "/home/android153/GoogleDownload/horizontalScrollView_recyclerView/build/intermediates/res/merged/debug/drawable/item_bg.xml",
+        "source": "/home/android153/GoogleDownload/horizontalScrollView_recyclerView/res/drawable/item_bg.xml"
+    }
+]

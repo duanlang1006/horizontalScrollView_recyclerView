@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/android153/GoogleDownload/horizontalScrollView_recyclerView/libs/support-annotations-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57c343f05b73b923bf2502b05851dbfe12193dcb">
+        <dex dex="/home/android153/GoogleDownload/horizontalScrollView_recyclerView/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-rc1_b43fe1f93daf7e4a6fa1136e47805a1e75b6fc93.jar" />
+    </item>
+    <item
+        jar="/home/android153/GoogleDownload/horizontalScrollView_recyclerView/libs/android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="12b40458075441c1a66d3fe16e72217ee7472a47">
+        <dex dex="/home/android153/GoogleDownload/horizontalScrollView_recyclerView/build/intermediates/pre-dexed/debug/android-support-v7-recyclerview_61f4b28d4ec446d98bc9180c6b58befc70b9c27d.jar" />
+    </item>
+    <item
+        jar="/home/android153/GoogleDownload/horizontalScrollView_recyclerView/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6683749e9499e27b05587052f0ec9d97fad5e259">
+        <dex dex="/home/android153/GoogleDownload/horizontalScrollView_recyclerView/build/intermediates/pre-dexed/debug/android-support-v4_5a05a807f032cde119cdae96a169c1bb74ea8b97.jar" />
+    </item>
+
+</items>
